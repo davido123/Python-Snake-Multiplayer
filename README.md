@@ -6,6 +6,7 @@ This project is using Client-Server communication to connect multiple players to
 PodSixNet - lightweight multiplayer networking library for Python games
 
 Some Screens of Game
+
 ![Screenshot](Obraz1.png)
 ![Screenshot](Obraz2.png)
 ![Screenshot](Obraz3.png)
